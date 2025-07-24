@@ -1,0 +1,37 @@
+
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: #f4f4f4;
+    color: #222;
+    text-align: center;
+}
+header {
+    background-color: #111;
+    color: white;
+    padding: 30px 10px 20px;
+}
+header h1 {
+    margin: 0;
+    font-size: 3em;
+}
+header .highlight {
+    color: #e0b000;
+}
+.main-photo img {
+    max-width: 100%;
+    height: auto;
+    margin-top: 20px;
+}
+section {
+    padding: 40px 20px;
+}
+footer {
+    background-color: #222;
+    color: #ccc;
+    padding: 10px 0;
+}
+a {
+    color: #0066cc;
+    text-decoration: none;
+}
